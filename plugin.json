@@ -1,0 +1,10 @@
+[ { "author" : "daeks",
+    "version": "0.1",
+    "name" : "Git Admin",
+    "url" : "https://github.com/daeks/Codiad-GitAdmin.git",
+    "rightbar" : [{
+        "action" : "codiad.git.pull();",
+        "icon" : "icon-palette",
+        "title" : "Git Admin"
+        }]
+  } ]
